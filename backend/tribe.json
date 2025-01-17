@@ -1,0 +1,458 @@
+[
+    {
+        "id" : "1", 
+        "title" : "Push It Along",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "2", 
+        "title" : "Luck of Lucien",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "3", 
+        "title" : "After Hours",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "4", 
+        "title" : "Footprints",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "5", 
+        "title" : "I Left My Wallet in El Segundo",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "6", 
+        "title" : "Pubic Enemy",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "7", 
+        "title" : "Bonita Applebum",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "8", 
+        "title" : "Can I Kick It?",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "9", 
+        "title" : "Youthful Expression",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "10", 
+        "title" : "Rhythm (Devoted to the Art of Moving Butts",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "11", 
+        "title" : "Mr. Muhammad",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "Ham 'N' Eggs", 
+        "title" : "Footprints",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "13", 
+        "title" : "Go Ahead In the Rain",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "14", 
+        "title" : "Description of a Fool",
+        "album" : "People's Instinctive Travels and the Paths to Rhythm",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "15", 
+        "title" : "Excursions",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "16", 
+        "title" : "Buggin' Out",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "17", 
+        "title" : "Rap Promoter",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "18", 
+        "title" : "Butter",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "19", 
+        "title" : "Verses from the Abstract",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "20", 
+        "title" : "Show Business",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "21", 
+        "title" : "Vibes and Stuff",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "22", 
+        "title" : "Infamous Date",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "23", 
+        "title" : "Check the Rhime",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "24", 
+        "title" : "Everything is Fair",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "25", 
+        "title" : "Jazz (We've Got)",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "26", 
+        "title" : "Skypager",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "27", 
+        "title" : "What?",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "28", 
+        "title" : "Scenario",
+        "album" : "The Low End Theory",
+        "backgroundColor" : "rgb(1, 1, 1)", 
+        "textColor" : "rgb(254, 254, 254)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "29", 
+        "title" : "Midnight Marauders Tour Guide",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "30", 
+        "title" : "Steve Biko (Stir It Up)",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "31", 
+        "title" : "Award Tour",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "32", 
+        "title" : "8 Million Stories",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "33", 
+        "title" : "Sucka",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "34", 
+        "title" : "Midnight",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "35", 
+        "title" : "We Can Get Down",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "36", 
+        "title" : "Electric Relaxation",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "37", 
+        "title" : "Clap Your Hands",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "38", 
+        "title" : "Oh My God",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "39", 
+        "title" : "Keep It Rollin'",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "40", 
+        "title" : "The Chase, Part II",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "41", 
+        "title" : "Lyrics to Go",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "42", 
+        "title" : "God Lives Through",
+        "album" : "Midnight Marauders",
+        "backgroundColor" : "rgb(2, 2, 2)", 
+        "textColor" : "rgb(253, 253, 253)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "43", 
+        "title" : "Phony Rappers",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "44", 
+        "title" : "Get a Hold",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "45", 
+        "title" : "Motivators",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "46", 
+        "title" : "The Jam",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "47", 
+        "title" : "Crew",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "48", 
+        "title" : "The Pressure",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "49", 
+        "title" : "1nce Again",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "50", 
+        "title" : "Mind Power",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "51", 
+        "title" : "The Hop",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "52", 
+        "title" : "Keeping It Moving",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "53", 
+        "title" : "Baby Phife's Return",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "54", 
+        "title" : "Separate/Together",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "55", 
+        "title" : "What Really Goes On",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "56", 
+        "title" : "Word Play",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    },
+    {
+        "id" : "57", 
+        "title" : "Stressed Out",
+        "album" : "Beats, Rhymes, and Life",
+        "backgroundColor" : "rgb(3, 3, 3)", 
+        "textColor" : "rgb(252, 252, 252)",
+        "nonAlbumSingle" : "no"
+    }
+]

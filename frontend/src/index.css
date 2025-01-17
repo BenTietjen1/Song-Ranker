@@ -1,0 +1,193 @@
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #535bf2;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.87);
+  /*background-color: #242424;*/
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.site-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh !important;
+  width: 100vw !important;
+}
+
+.navigation-bar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-left: 0 !important;
+  outline: 1px solid black;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding-left: 0 !important;
+  justify-content: flex-start !important;
+}
+
+.navbar-logo {
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(0, 0, 0);
+  font-family: "ivystyle-sans", sans-serif;
+  font-weight: 400;
+  font-size: 30px !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+}
+
+.navbar-page {
+  color: rgb(0, 0, 0);
+  padding-left: 1rem;
+  font-family: "ivystyle-sans", sans-serif;
+  font-weight: 400;
+}
+
+.nav-link:hover {
+  color: rgb(83, 83, 83); /* Change to any desired color */
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  height: 94%;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.page-title {
+  color: black;
+  font-weight: 400;
+  font-family: "ivystyle-sans", sans-serif;
+  font-size: 25px;
+  padding-left: 6rem;
+  padding-top: 1rem;
+  margin: 0;
+}
+
+.footer {
+  background-color: lightgray;
+  text-align: right;
+  padding-right: 1rem; 
+  padding-bottom: 0rem;
+  position: fixed;
+  width: 100%;
+  height: 1rem;
+  left: 0;
+  bottom: 0;
+}
+
+.footer-text {
+  color: black;
+  font-weight: 400;
+  font-family: 'ltc-goudy-oldstyle-pro';
+  font-size: 12px;
+  padding-bottom: 0rem;
+}
+
+.button-container {
+  display: flex;                  
+}
+
+.columns-container {
+  display: flex;
+  justify-content: space-between; /* Distribute columns evenly */
+  padding: 0px 0;
+  margin-bottom: 1.25rem;
+}
+
+.column {
+  flex: 1 1 auto;
+  max-width: 12.5%;
+  min-width: 10%; /* Fixed column width (8 columns total) */
+  /*border: 1px solid #000000;*/
+  outline: 0.5px solid black;
+  padding: 0px;
+  text-align: center;
+  background: #f9f9f9;
+  box-sizing: border-box;
+  color: black;
+}
+
+.wide-pool {
+  width: 100%;
+}
+
+.pool-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  margin-bottom: 1.25rem;
+}
+
+.instructions {
+  color: black;
+  font-weight: 400;
+  font-family: "ivystyle-sans", sans-serif;
+  font-size: 25px;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0rem;
+}
+
+button {
+  border-radius: 0px;
+  border: 0.5px solid black;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin: 1rem;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/* IMPORTED FONTS */
+
+@font-face {
+  font-family: 'Aptos';
+  src: url('./fonts/Aptos.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+

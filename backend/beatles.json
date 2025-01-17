@@ -1,0 +1,1518 @@
+[
+    {
+        "id" : "1",
+        "title" :  "I Saw Her Standing There",
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "2",
+        "title" : "Misery", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "3",
+        "title" : "Anna (Go to Him)", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "4",
+        "title" : "Chains", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "5",
+        "title" : "Boys", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "6",
+        "title" : "Ask Me Why", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "7",
+        "title" : "Please Please Me", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "8",
+        "title" : "Love Me Do", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "9",
+        "title" : "P.S. I Love You", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "10",
+        "title" : "Baby It's You", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "11",
+        "title" : "Do You Want to Know a Secret", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "12",
+        "title" : "A Taste of Honey", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "13",
+        "title" : "There's a Place", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "14",
+        "title" : "Twist and Shout", 
+        "album" : "Please Please Me", 
+        "backgroundColor" : "rgb(186, 182, 180)", 
+        "textColor" : "rgb(250, 240, 79)"
+    },
+    {
+        "id" : "187",
+        "title" : "From Me to You",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "188",
+        "title" : "Thank You Girl",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "189",
+        "title" : "She Loves You",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "190",
+        "title" : "I'll Get You",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "15",
+        "title" : "It Won't Be Long", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "16",
+        "title" : "All I've Got to Do", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "17",
+        "title" : "All My Loving", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "18",
+        "title" : "Don't Bother Me", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "19",
+        "title" : "Little Child", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "20",
+        "title" : "Till There Was You", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "21",
+        "title" : "Please Mister Postman", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "22",
+        "title" : "Roll Over Beethoven", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "23",
+        "title" : "Hold Me Tight", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "24",
+        "title" : "You Really Got a Hold On Me", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "25",
+        "title" : "I Wanna Be Your Man", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "26",
+        "title" : "Devil In Her Heart", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "27",
+        "title" : "Not a Second Time", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "28",
+        "title" : "Money (That's What I Want)", 
+        "album" : "With the Beatles", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "191",
+        "title" : "I Want to Hold Your Hand",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "192",
+        "title" : "This Boy",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "193",
+        "title" : "Long Tall Sally",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "194",
+        "title" : "I Call Your Name",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "195",
+        "title" : "Slow Down",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "196",
+        "title" : "Matchbox",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "29",
+        "title" : "A Hard Day's Night", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "30",
+        "title" : "I Should Have Known Better", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "31",
+        "title" : "If I Fell", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "32",
+        "title" : "I'm Happy Just to Dance With You", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "33",
+        "title" : "And I Love Her", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "34",
+        "title" : "Tell Me Why", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "35",
+        "title" : "Can't Buy Me Love", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "36",
+        "title" : "Any Time at All", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "37",
+        "title" : "I'll Cry Instead", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "38",
+        "title" : "Things We Said Today", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "39",
+        "title" : "When I Get Home", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "40",
+        "title" : "You Can't Do That", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "41",
+        "title" : "I'll Be Back", 
+        "album" : "A Hard Day's Night", 
+        "backgroundColor" : "rgb(25, 65, 127)", 
+        "textColor" : "rgb(197, 57, 57)"
+    },
+    {
+        "id" : "197",
+        "title" : "I Feel Fine",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "198",
+        "title" : "She's a Woman",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "42",
+        "title" : "No Reply", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "43",
+        "title" : "I'm a Loser", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "44",
+        "title" : "Baby's In Black", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "45",
+        "title" : "Rock and Roll Music", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "46",
+        "title" : "I'll Follow the Sun", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "47",
+        "title" : "Mr. Moonlight", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "48",
+        "title" : "Kansas City / Hey-Hey-Hey-Hey!", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "49",
+        "title" : "Eight Days a Week", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "50",
+        "title" : "Words of Love", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "51",
+        "title" : "Honey Don't", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "52",
+        "title" : "Every Little Thing", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "53",
+        "title" : "I Don't Want to Spoil the Party", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "54",
+        "title" : "What You're Doing", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "55",
+        "title" : "Everybody's Trying to Be My Baby", 
+        "album" : "Beatles For Sale", 
+        "backgroundColor" : "rgb(220, 147, 55)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "199",
+        "title" : "Yes It Is",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "200",
+        "title" : "Bad Boy",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "201",
+        "title" : "I'm Down",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "56",
+        "title" : "Help!", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "57",
+        "title" : "The Night Before", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "58",
+        "title" : "You've Got to Hide Your Love Away", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "59",
+        "title" : "I Need You", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "60",
+        "title" : "Another Girl", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "61",
+        "title" : "You're Going to Lose That Girl", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "62",
+        "title" : "Ticket to Ride", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "63",
+        "title" : "Act Naturally", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "64",
+        "title" : "It's Only Love", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "65",
+        "title" : "You Like Me Too Much", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "66",
+        "title" : "Tell Me What You See", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "67",
+        "title" : "I've Just Seen a Face", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "68",
+        "title" : "Yesterday", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "69",
+        "title" : "Dizzy Miss Lizzy", 
+        "album" : "Help!", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(50, 113, 168)"
+    },
+    {
+        "id" : "202",
+        "title" : "We Can Work It Out",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "203",
+        "title" : "Day Tripper",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "70",
+        "title" : "Drive My Car", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "71",
+        "title" : "Norwegian Wood (This Bird Has Flown)", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "72",
+        "title" : "You Won't See Me", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "73",
+        "title" : "Nowhere Man", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "74",
+        "title" : "Think For Yourself", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "75",
+        "title" : "The Word", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "76",
+        "title" : "Michelle", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "77",
+        "title" : "What Goes On", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "78",
+        "title" : "Girl", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "79",
+        "title" : "I'm Looking Through You", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "80",
+        "title" : "In My Life", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "81",
+        "title" : "Wait", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "82",
+        "title" : "If I Needed Someone", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "83",
+        "title" : "Run For Your Life", 
+        "album" : "Rubber Soul", 
+        "backgroundColor" : "rgb(27, 64, 51)", 
+        "textColor" : "rgb(186, 98, 47)"
+    },
+    {
+        "id" : "204",
+        "title" : "Paperback Writer",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "205",
+        "title" : "Rain",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "84",
+        "title" : "Taxman", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "85",
+        "title" : "Eleanor Rigby", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "86",
+        "title" : "I'm Only Sleeping", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "87",
+        "title" : "Love You To", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "88",
+        "title" : "Here, There, and Everywhere", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "89",
+        "title" : "Yellow Submarine", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "90",
+        "title" : "She Said She Said", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "91",
+        "title" : "Good Day Sunshine", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "92",
+        "title" : "And Your Bird Can Sing", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "93",
+        "title" : "For No One", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "94",
+        "title" : "Doctor Robert", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "95",
+        "title" : "I Want to Tell You", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "96",
+        "title" : "Got to Get You Into My Life", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "97",
+        "title" : "Tomorrow Never Knows", 
+        "album" : "Revolver", 
+        "backgroundColor" : "rgb(200, 200, 200)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "98",
+        "title" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "99",
+        "title" : "With a Little Help From My Friends", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "100",
+        "title" : "Lucy In the Sky with Diamonds", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "101",
+        "title" : "Getting Better", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "102",
+        "title" : "Fixing a Hole", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "103",
+        "title" : "She's Leaving Home", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "104",
+        "title" : "Being For the Benefit of Mr. Kite!", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "105",
+        "title" : "Within You Without You", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "106",
+        "title" : "When I'm Sixty-Four", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "107",
+        "title" : "Lovely Rita", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "108",
+        "title" : "Good Morning Good Morning", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "109",
+        "title" : "Sgt. Pepper's Lonely Hearts Club Band (Reprise)", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "110",
+        "title" : "A Day In the Life", 
+        "album" : "Sgt. Pepper's Lonely Hearts Club Band", 
+        "backgroundColor" : "rgb(138, 185, 214)", 
+        "textColor" : "rgb(180, 68, 75)"
+    },
+    {
+        "id" : "111",
+        "title" : "Magical Mystery Tour", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "112",
+        "title" : "The Fool On the Hill", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "113",
+        "title" : "Flying", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "114",
+        "title" : "Blue Jay Way", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "115",
+        "title" : "Your Mother Should Know", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "116",
+        "title" : "I Am the Walrus", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "117",
+        "title" : "Hello, Goodbye", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "118",
+        "title" : "Strawberry Fields Forever", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "119",
+        "title" : "Penny Lane", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "120",
+        "title" : "Baby, You're a Rich Man", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "121",
+        "title" : "All You Need Is Love", 
+        "album" : "Magical Mystery Tour", 
+        "backgroundColor" : "rgb(227, 189, 70)", 
+        "textColor" : "rgb(91, 172, 208)"
+    },
+    {
+        "id" : "206",
+        "title" : "Lady Madonna",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "207",
+        "title" : "The Inner Light",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "208",
+        "title" : "Hey Jude",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "209",
+        "title" : "Revolution",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "122",
+        "title" : "Back In the U.S.S.R.", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "123",
+        "title" : "Dear Prudence", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "124",
+        "title" : "Glass Onion", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "125",
+        "title" : "Ob-La-Di, Ob-La-Da", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "126",
+        "title" : "Wild Honey Pie", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "127",
+        "title" : "The Continuing Story of Bungalow Bill", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "128",
+        "title" : "While My Guitar Gently Weeps", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "129",
+        "title" : "Happiness Is a Warm Gun", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "130",
+        "title" : "Martha My Dear", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "131",
+        "title" : "I'm So Tired", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "132",
+        "title" : "Blackbird", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "133",
+        "title" : "Piggies", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "134",
+        "title" : "Rocky Raccoon", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "135",
+        "title" : "Don't Pass Me By", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "136",
+        "title" : "Why Don't We Do It In the Road?", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "137",
+        "title" : "I Will", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "138",
+        "title" : "Julia", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "139",
+        "title" : "Birthday", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "140",
+        "title" : "Yer Blues", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "141",
+        "title" : "Mother Nature's Son", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "142",
+        "title" : "Everybody's Got Something to Hide Except Me and My Monkey", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "143",
+        "title" : "Sexy Sadie", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "144",
+        "title" : "Helter Skelter", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "145",
+        "title" : "Long, Long, Long", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "146",
+        "title" : "Revolution 1", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "147",
+        "title" : "Honey Pie", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "148",
+        "title" : "Savoy Truffle", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "149",
+        "title" : "Cry Baby Cry", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "150",
+        "title" : "Revolution 9", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "151",
+        "title" : "Good Night", 
+        "album" : "The Beatles (The White Album)", 
+        "backgroundColor" : "rgb(255, 255, 255)", 
+        "textColor" : "rgb(159, 150, 153)"
+    },
+    {
+        "id" : "152",
+        "title" : "Yellow Submarine", 
+        "album" : "Yellow Submarine", 
+        "backgroundColor" : "rgb(99, 126, 137)", 
+        "textColor" : "rgb(250, 226, 76)"
+    },
+    {
+        "id" : "153",
+        "title" : "Only a Northern Song", 
+        "album" : "Yellow Submarine", 
+        "backgroundColor" : "rgb(99, 126, 137)", 
+        "textColor" : "rgb(250, 226, 76)"
+    },
+    {
+        "id" : "154",
+        "title" : "All Together Now", 
+        "album" : "Yellow Submarine", 
+        "backgroundColor" : "rgb(99, 116, 127)", 
+        "textColor" : "rgb(250, 226, 76)"
+    },
+    {
+        "id" : "155",
+        "title" : "Hey Bulldog", 
+        "album" : "Yellow Submarine", 
+        "backgroundColor" : "rgb(99, 116, 127)", 
+        "textColor" : "rgb(250, 226, 76)"
+    },
+    {
+        "id" : "156",
+        "title" : "It's All Too Much", 
+        "album" : "Yellow Submarine", 
+        "backgroundColor" : "rgb(99, 116, 127)", 
+        "textColor" : "rgb(250, 226, 76)"
+    },
+    {
+        "id" : "157",
+        "title" : "All You Need Is Love", 
+        "album" : "Yellow Submarine",   
+        "backgroundColor" : "rgb(99, 116, 127)", 
+        "textColor" : "rgb(250, 226, 76)"
+    },
+    {
+        "id" : "211",
+        "title" : "Don't Let Me Down",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "212",
+        "title" : "The Ballad of John and Yoko",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "213",
+        "title" : "Old Brown Shoe",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }, 
+    {
+        "id" : "158",
+        "title" : "Come Together", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "159",
+        "title" : "Something", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "160",
+        "title" : "Maxwell's Silver Hammer", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "161",
+        "title" : "Oh! Darling", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "162",
+        "title" : "Octopus's Garden", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "163",
+        "title" : "I Want You (She's So Heavy)", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "164",
+        "title" : "Here Comes the Sun", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "165",
+        "title" : "Because", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "166",
+        "title" : "You Never Give Me Your Money", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "167",
+        "title" : "Sun King", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "168",
+        "title" : "Mean Mr. Mustard", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "169",
+        "title" : "Polythene Pam", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "170",
+        "title" : "She Came In Through the Bathroom Window", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "171",
+        "title" : "Golden Slumbers", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "172",
+        "title" : "Carry That Weight", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "173",
+        "title" : "The End", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "174",
+        "title" : "Her Majesty", 
+        "album" : "Abbey Road", 
+        "backgroundColor" : "rgb(105, 113, 103)", 
+        "textColor" : "rgb(211, 210, 192)"
+    },
+    {
+        "id" : "214",
+        "title" : "You Know My Name (Look Up the #)",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "175",
+        "title" : "Two of Us", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "176",
+        "title" : "Dig a Pony", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "177",
+        "title" : "Across the Universe", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "178",
+        "title" : "I Me Mine", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "179",
+        "title" : "Dig It", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "180",
+        "title" : "Let It Be", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "181",
+        "title" : "Maggie Mae", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "182",
+        "title" : "I've Got a Feeling", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "183",
+        "title" : "One After 909", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "184",
+        "title" : "The Long and Winding Road", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "185",
+        "title" : "For You Blue", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },
+    {
+        "id" : "186",
+        "title" : "Get Back", 
+        "album" : "Let It Be", 
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(255, 255, 255)"
+    },  
+    {
+        "id" : "215",
+        "title" : "Free As a Bird",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "216",
+        "title" : "Real Love",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "217",
+        "title" : "Now And Then",
+        "album" : "NA", 
+        "backgroundColor" : "rgb(200, 100, 100)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }
+    
+
+
+]
+

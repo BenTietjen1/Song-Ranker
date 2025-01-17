@@ -1,0 +1,303 @@
+[
+    {
+        "id" : "1", 
+        "title" : "I Ain't No Joke",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "2", 
+        "title" : "Eric B. Is On the Cut",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "3", 
+        "title" : "My Melody",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "4", 
+        "title" : "I Know You Got Soul",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "5", 
+        "title" : "Move the Crowd",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "6", 
+        "title" : "Paid In Full",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "7", 
+        "title" : "As the Rhyme Goes On",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "8", 
+        "title" : "Chinese Arithmetic",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "9", 
+        "title" : "Eric B. Is President",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "10", 
+        "title" : "Extended Beat",
+        "album" : "Paid In Full",
+        "backgroundColor" : "rgb(64, 186, 124)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "11", 
+        "title" : "Follow the Leader",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "12", 
+        "title" : "Microphone Fiend",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "13", 
+        "title" : "Lyrics of Fury",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "14", 
+        "title" : "Eric B. Never Scared",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "15", 
+        "title" : "Just a Beat",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "16", 
+        "title" : "Put Your Hands Together",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "17", 
+        "title" : "To the Listeners",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "18", 
+        "title" : "No Competition",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "19", 
+        "title" : "The R",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "20", 
+        "title" : "Musical Massacre",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "21", 
+        "title" : "Beats for the Listeners",
+        "album" : "Follow the Leader",
+        "backgroundColor" : "rgb(76, 34, 48)", 
+        "textColor" : "rgb(225, 205, 142)"
+    },
+    {
+        "id" : "22", 
+        "title" : "Let the Rhythm Hit 'Em",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "23", 
+        "title" : "No Omega",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "24", 
+        "title" : "In the Ghetto",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "25", 
+        "title" : "Step Back",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "26", 
+        "title" : "Eric B. Made My Day",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "27", 
+        "title" : "Run for Cover",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "28", 
+        "title" : "Untouchables",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "29", 
+        "title" : "Mahogany",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "30", 
+        "title" : "Keep 'Em Eager to Listen",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "31", 
+        "title" : "Set 'Em Straight",
+        "album" : "Let the Rhythm Hit 'Em",
+        "backgroundColor" : "rgb(0, 0, 0)", 
+        "textColor" : "rgb(229, 54, 37)"
+    },
+    {
+        "id" : "32", 
+        "title" : "What's on Your Mind?",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "33", 
+        "title" : "Teach the Children",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "34", 
+        "title" : "Pass the Hand Grenade",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "35", 
+        "title" : "Casualties of War",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "36", 
+        "title" : "Rest Assured",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "37", 
+        "title" : "The Punisher",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "38", 
+        "title" : "Relax with Pep",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "39", 
+        "title" : "Keep the Beat",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "40", 
+        "title" : "What's Going On?",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "41", 
+        "title" : "Know the Ledge",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "42", 
+        "title" : "Don't Sweat the Technique",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    },
+    {
+        "id" : "43", 
+        "title" : "Kick Along",
+        "album" : "Don't Sweat the Technique",
+        "backgroundColor" : "rgb(193, 193, 210)", 
+        "textColor" : "rgb(0, 0, 0)"
+    }
+]
